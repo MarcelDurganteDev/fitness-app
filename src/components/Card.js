@@ -1,8 +1,8 @@
 import React from 'react'
 import circlesImg from '../images/circles.png'
 import legsImg from '../images/legs.png'
-import './styles/Card.scss'
 import exerciseImg from '../images/biceps.png'
+import './styles/Card.scss'
 
 class Card extends React.Component {
 

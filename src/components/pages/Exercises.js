@@ -7,7 +7,7 @@ class Exercises extends Component {
         render() {
             return (
                 <div>
-                    <Welcome username="Raul" />
+                    <Welcome username="Marcel Dev!" />
                     <Card
                         title="My Title"
                         description="Learn amazing street workout and calisthenics"
